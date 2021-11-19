@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="200168" started-at="2021-11-18T18:03:04 IST" finished-at="2021-11-18T18:06:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="200168" started-at="2021-11-18T18:03:04 IST" finished-at="2021-11-18T18:06:24 IST">
+      <class name="com.mindtree.runner.BigSmallApplication">
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="startup" is-config="true" duration-ms="270" started-at="2021-11-18T18:03:04 IST" finished-at="2021-11-18T18:03:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="beforeClass" is-config="true" duration-ms="3003" started-at="2021-11-18T18:03:04 IST" finished-at="2021-11-18T18:03:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="createAccount()[pri:1, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="createAccount" duration-ms="29409" started-at="2021-11-18T18:03:07 IST" finished-at="2021-11-18T18:03:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="signIN()[pri:2, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="signIN" duration-ms="15273" started-at="2021-11-18T18:03:36 IST" finished-at="2021-11-18T18:03:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIN -->
+        <test-method status="PASS" signature="codAvailability()[pri:3, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="codAvailability" duration-ms="18283" started-at="2021-11-18T18:03:52 IST" finished-at="2021-11-18T18:04:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- codAvailability -->
+        <test-method status="PASS" signature="shopbycateg()[pri:4, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="shopbycateg" duration-ms="18434" started-at="2021-11-18T18:04:10 IST" finished-at="2021-11-18T18:04:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopbycateg -->
+        <test-method status="PASS" signature="Giftcard()[pri:5, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="Giftcard" duration-ms="26565" started-at="2021-11-18T18:04:28 IST" finished-at="2021-11-18T18:04:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Giftcard -->
+        <test-method status="PASS" signature="addingproducttocart()[pri:6, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="addingproducttocart" duration-ms="20032" started-at="2021-11-18T18:04:55 IST" finished-at="2021-11-18T18:05:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingproducttocart -->
+        <test-method status="PASS" signature="Searchproduct()[pri:7, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="Searchproduct" duration-ms="22097" started-at="2021-11-18T18:05:15 IST" finished-at="2021-11-18T18:05:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchproduct -->
+        <test-method status="PASS" signature="validateWhatsnewPage()[pri:8, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="validateWhatsnewPage" duration-ms="18152" started-at="2021-11-18T18:05:37 IST" finished-at="2021-11-18T18:05:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateWhatsnewPage -->
+        <test-method status="PASS" signature="GiftsPage()[pri:9, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="GiftsPage" duration-ms="10179" started-at="2021-11-18T18:05:55 IST" finished-at="2021-11-18T18:06:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftsPage -->
+        <test-method status="PASS" signature="PersonalisedGiftsPage()[pri:10, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="PersonalisedGiftsPage" duration-ms="18492" started-at="2021-11-18T18:06:05 IST" finished-at="2021-11-18T18:06:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalisedGiftsPage -->
+        <test-method status="PASS" signature="classTeardown()[pri:0, instance:com.mindtree.runner.BigSmallApplication@226a82c4]" name="classTeardown" is-config="true" duration-ms="176" started-at="2021-11-18T18:06:24 IST" finished-at="2021-11-18T18:06:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTeardown -->
+      </class> <!-- com.mindtree.runner.BigSmallApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
